@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Astronomical Picture of the Day</string>
+
+    <string name="apod_title">Astronomical Picture of the Day</string>
+    <string name="today_button_text">Today\'s picture</string>
+    <string name="today_title">Today\'s Picture</string>
+
+    <!--    Error Messages-->
+    <string name="no_internet">Please check your internet connection and try again</string>
+    <string name="general_error">There was an issue connecting to the server. Please try again later</string>
+    <string name="empty_email">Username field is mandatory</string>
+    <string name="empty_password">Password field is mandatory</string>
+    <string name="token_expired">Your credentials have expired. Please log-in again</string>
+    <string name="invalid_credentials">You have entered an invalid username and/or password</string>
+</resources>
